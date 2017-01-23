@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1389554670 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1367270805 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\loadshaders.h
+	<GL/gl.h>
+
+1393277982 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\polygon.cpp
+	<iostream>
+	"polygon.h"
+	<math.h>
+
+1393276139 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\polygon.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1391031007 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\vec_mat.h
+	<math.h>
+	<iostream>
+
+1393275551 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+
+1393276139 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\rectangle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393276075 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"rectangle.h"
+	"polygon.h"
+	"LoadShaders.h"
+	"util.h"
+
+1393177050 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_rectangle\util.h
+	<stdlib.h>
+	<time.h>
+
+1389558270 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1367274405 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\loadshaders.h
+	<GL/gl.h>
+
+1393472995 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"rectangle.h"
+	"polygon.h"
+	"LoadShaders.h"
+	"util.h"
+
+1393279739 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\rectangle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1391034607 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\vec_mat.h
+	<math.h>
+	<iostream>
+
+1393286755 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\polygon.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393180650 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\util.h
+	<stdlib.h>
+	<time.h>
+
+1393286123 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+
+1398787818 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw2_animation\polygon.cpp
+	<iostream>
+	"polygon.h"
+	<math.h>
+

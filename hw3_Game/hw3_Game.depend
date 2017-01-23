@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1389558272 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1367274406 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\loadshaders.h
+	<GL/gl.h>
+
+1393736706 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	"Circle.h"
+	"Cross.h"
+	"Line.h"
+	"Board.h"
+	"LoadShaders.h"
+
+1393729706 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\circle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1391034608 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\vec_mat.h
+	<math.h>
+	<iostream>
+
+1393729706 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\cross.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393729706 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\line.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393177050 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\util.h
+	<stdlib.h>
+	<time.h>
+
+1393729706 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\board.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393729706 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\board.cpp
+	"Board.h"
+
+1393729706 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\circle.cpp
+	"Circle.h"
+	<math.h>
+
+1393729706 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\cross.cpp
+	"Cross.h"
+
+1393729706 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw3_game\line.cpp
+	"Line.h"
+

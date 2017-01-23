@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1392592142 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\axes.cpp
+	<GL/glew.h>
+	"axes.h"
+
+1392592110 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\axes.h
+	"vec_mat.h"
+
+1394677497 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/gl.h>
+
+1393951978 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\cube.cpp
+	<GL/glew.h>
+	"cube.h"
+
+1393950916 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\cube.h
+	"vec_mat.h"
+
+1389558272 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392589952 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\loadshaders.h
+	<GL/gl.h>
+
+1397035858 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<string>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"cube.h"
+	"Models.h"
+	"axes.h"
+	"teapot.h"
+	"SphericalCamera.h"
+	"YPRCamera.h"
+	"YPR2DCamera.h"
+	"MaterialLight.h"
+	"util.h"
+
+1394673319 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\models.h
+	<GL/glew.h>
+
+1393961338 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\sphericalcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+	<math.h>
+
+1393455160 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\yprcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+
+1396857577 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\materiallight.h
+	"vec_mat.h"
+
+1394673356 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\models.cpp
+	<math.h>
+	<GL/glew.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Models.h"
+
+1393961336 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\sphericalcamera.cpp
+	"SphericalCamera.h"
+
+1396905862 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\yprcamera.cpp
+	"YPRCamera.h"
+
+1395098800 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\teapot.h
+	<GL/glew.h>
+
+1396849965 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\util.h
+	<stdlib.h>
+	<time.h>
+
+1396905975 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\ypr2dcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+
+1396930408 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw5_materialslights\ypr2dcamera.cpp
+	"YPR2DCamera.h"
+

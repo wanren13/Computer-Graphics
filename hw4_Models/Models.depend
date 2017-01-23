@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1392588542 source:c:\users\despickler\programming\cpp\models\axes.cpp
+	<GL/glew.h>
+	"axes.h"
+
+1392588510 c:\users\despickler\programming\cpp\models\axes.h
+	"vec_mat.h"
+
+1393206792 c:\users\despickler\programming\cpp\models\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/gl.h>
+
+1392597538 source:c:\users\despickler\programming\cpp\models\cube.cpp
+	<GL/glew.h>
+	"cube.h"
+
+1392597372 c:\users\despickler\programming\cpp\models\cube.h
+	"vec_mat.h"
+
+1389554672 source:c:\users\despickler\programming\cpp\models\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392586352 c:\users\despickler\programming\cpp\models\loadshaders.h
+	<GL/gl.h>
+
+1393879130 source:c:\users\despickler\programming\cpp\models\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"cube.h"
+	"Models.h"
+	"axes.h"
+	"SphericalCamera.h"
+	"YPRCamera.h"
+
+1393868740 c:\users\despickler\programming\cpp\models\models.h
+	<GL/glew.h>
+
+1393295156 c:\users\despickler\programming\cpp\models\sphericalcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+	<math.h>
+
+1393451560 c:\users\despickler\programming\cpp\models\yprcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+
+1393872636 source:c:\users\despickler\programming\cpp\models\models.cpp
+	<math.h>
+	<GL/glew.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Models.h"
+
+1393295254 source:c:\users\despickler\programming\cpp\models\sphericalcamera.cpp
+	"SphericalCamera.h"
+
+1393463918 source:c:\users\despickler\programming\cpp\models\yprcamera.cpp
+	"YPRCamera.h"
+
+1392588542 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\axes.cpp
+	<GL/glew.h>
+	"axes.h"
+
+1392588510 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\axes.h
+	"vec_mat.h"
+
+1393206792 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/gl.h>
+
+1392597538 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\cube.cpp
+	<GL/glew.h>
+	"cube.h"
+
+1392597372 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\cube.h
+	"vec_mat.h"
+
+1389554672 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392586352 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\loadshaders.h
+	<GL/gl.h>
+
+1394123743 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"cube.h"
+	"Models.h"
+	"axes.h"
+	"SphericalCamera.h"
+	"YPRCamera.h"
+
+1393868740 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\models.h
+	<GL/glew.h>
+
+1393295156 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\sphericalcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+	<math.h>
+
+1393451560 c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\yprcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+
+1394154964 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\models.cpp
+	<math.h>
+	<GL/glew.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Models.h"
+
+1393295254 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\sphericalcamera.cpp
+	"SphericalCamera.h"
+
+1393463918 source:c:\users\don\programming\cpp\aaa_newexamples\threed_examples\models\yprcamera.cpp
+	"YPRCamera.h"
+
+1392592142 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\axes.cpp
+	<GL/glew.h>
+	"axes.h"
+
+1392592110 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\axes.h
+	"vec_mat.h"
+
+1393210392 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/gl.h>
+
+1392601138 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\cube.cpp
+	<GL/glew.h>
+	"cube.h"
+
+1392600972 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\cube.h
+	"vec_mat.h"
+
+1389558272 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392589952 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\loadshaders.h
+	<GL/gl.h>
+
+1394597678 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"cube.h"
+	"Models.h"
+	"axes.h"
+	"SphericalCamera.h"
+	"YPRCamera.h"
+
+1393872340 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\models.h
+	<GL/glew.h>
+
+1393298756 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\sphericalcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+	<math.h>
+
+1393455160 c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\yprcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+
+1394158564 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\models.cpp
+	<math.h>
+	<GL/glew.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Models.h"
+
+1393298854 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\sphericalcamera.cpp
+	"SphericalCamera.h"
+
+1393467518 source:c:\users\wanre_000\documents\code\c++\computer_graphics\examples\chapter3\models\yprcamera.cpp
+	"YPRCamera.h"
+
+1392592142 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\axes.cpp
+	<GL/glew.h>
+	"axes.h"
+
+1392592110 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\axes.h
+	"vec_mat.h"
+
+1393210392 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/gl.h>
+
+1392601138 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\cube.cpp
+	<GL/glew.h>
+	"cube.h"
+
+1392600972 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\cube.h
+	"vec_mat.h"
+
+1389558272 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392589952 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\loadshaders.h
+	<GL/gl.h>
+
+1393298854 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\sphericalcamera.cpp
+	"SphericalCamera.h"
+
+1393298756 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\sphericalcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+	<math.h>
+
+1393467518 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\yprcamera.cpp
+	"YPRCamera.h"
+
+1393455160 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\yprcamera.h
+	<GL/gl.h>
+	"vec_mat.h"
+
+1394635306 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"cube.h"
+	"Models.h"
+	"axes.h"
+	"SphericalCamera.h"
+	"YPRCamera.h"
+
+1394632502 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\models.h
+	<GL/glew.h>
+
+1394633310 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw4_mode\models.cpp
+	<math.h>
+	<GL/glew.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Models.h"
+

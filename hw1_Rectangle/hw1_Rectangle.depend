@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1392924333 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw1_rectangle\main.cpp
+	<iostream>
+	"rectangle.h"
+	<stdio.h>
+
+1392255401 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw1_rectangle\rectangle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1392340150 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw1_rectangle\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+	"LoadShaders.h"
+
+1367274405 c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw1_rectangle\loadshaders.h
+	<GL/gl.h>
+
+1389558270 source:c:\users\wanre_000\documents\code\c++\computer_graphics\homeworks\hw1_rectangle\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
